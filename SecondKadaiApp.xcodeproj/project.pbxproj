@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DD71E34D26D8E68200B00C1D /* SecondKadaiApp in Resources */ = {isa = PBXBuildFile; fileRef = DD71E34C26D8E68200B00C1D /* SecondKadaiApp */; };
-		DD71E34F26D8EA7E00B00C1D /* SecondKadaiApp in Resources */ = {isa = PBXBuildFile; fileRef = DD71E34E26D8EA7E00B00C1D /* SecondKadaiApp */; };
 		DD90988926D7D5DC003CE136 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90988826D7D5DC003CE136 /* AppDelegate.swift */; };
 		DD90988B26D7D5DC003CE136 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90988A26D7D5DC003CE136 /* SceneDelegate.swift */; };
 		DD90988D26D7D5DC003CE136 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD90988C26D7D5DC003CE136 /* ViewController.swift */; };
@@ -19,8 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DD71E34C26D8E68200B00C1D /* SecondKadaiApp */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SecondKadaiApp; sourceTree = "<group>"; };
-		DD71E34E26D8EA7E00B00C1D /* SecondKadaiApp */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SecondKadaiApp; sourceTree = "<group>"; };
 		DD90988526D7D5DC003CE136 /* SecondKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD90988826D7D5DC003CE136 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD90988A26D7D5DC003CE136 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -47,8 +43,6 @@
 			isa = PBXGroup;
 			children = (
 				DD90988726D7D5DC003CE136 /* SecondKadaiApp */,
-				DD71E34C26D8E68200B00C1D /* SecondKadaiApp */,
-				DD71E34E26D8EA7E00B00C1D /* SecondKadaiApp */,
 				DD90988626D7D5DC003CE136 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -134,8 +128,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD90989526D7D5DD003CE136 /* LaunchScreen.storyboard in Resources */,
-				DD71E34D26D8E68200B00C1D /* SecondKadaiApp in Resources */,
-				DD71E34F26D8EA7E00B00C1D /* SecondKadaiApp in Resources */,
 				DD90989226D7D5DD003CE136 /* Assets.xcassets in Resources */,
 				DD90989026D7D5DC003CE136 /* Main.storyboard in Resources */,
 			);
